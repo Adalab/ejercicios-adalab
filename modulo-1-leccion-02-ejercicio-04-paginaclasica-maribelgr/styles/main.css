@@ -1,0 +1,22 @@
+body {
+  background-color: rgb(189, 194, 194);
+}
+
+header {
+  background-color: cornflowerblue;
+  color: rgb(9, 9, 71);
+  font-size: 40px;
+  border: 2px solid black;
+}
+
+nav:link {
+  color: blue;
+}
+
+nav:visited {
+  color: purple;
+}
+
+section.seccion {
+  border: 1px;
+}

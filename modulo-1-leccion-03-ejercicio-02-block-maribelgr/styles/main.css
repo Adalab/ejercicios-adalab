@@ -1,0 +1,17 @@
+.header {
+  border: solid 2px green;
+  background: black;
+  width: 50px;
+  height: 80;
+  display: block;
+}
+
+.inline {
+  border: solid 2px green;
+  display: inline;
+}
+
+.inlineblock {
+  border: solid 2px green;
+  display: inline-block;
+}
