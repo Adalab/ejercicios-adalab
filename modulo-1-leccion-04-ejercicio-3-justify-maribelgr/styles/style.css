@@ -1,0 +1,17 @@
+header {
+  background-color: red;
+}
+
+.container {
+  display: flex;
+  height: 100px;
+  flex-direction: row;
+  border: 1px solid black;
+  justify-content: space-around;
+  align-items: center;
+  padding-left: 20px;
+}
+
+.item {
+  border: 1px solid black;
+}
