@@ -1,0 +1,32 @@
+body {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.main {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 200vh;
+  transition: 3s ease;
+}
+
+.main:hover {
+  padding-top: 0vh;
+}
+
+.container {
+  width: 50%;
+  height: 50vh;
+  background: white;
+  color: black;
+  font-size: 40px;
+  border: 1px solid black;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

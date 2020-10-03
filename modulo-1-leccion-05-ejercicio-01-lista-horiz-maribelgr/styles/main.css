@@ -6,11 +6,16 @@ body {
   width: 500px;
   border: 2px solid purple;
   display: flex;
+  padding: 0px;
 }
 
 .item {
   border: 2px solid orangered;
-  width: 100px;
+  width: 100px
   margin-left: 12px;
-  border-si
+  list-style-type: none;
+}
+
+.item-1 {
+  margin-left: 0;
 }

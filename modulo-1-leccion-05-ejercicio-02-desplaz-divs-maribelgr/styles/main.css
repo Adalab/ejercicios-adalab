@@ -12,36 +12,24 @@ body {
   border: 2px solid orangered;
   width: 300px;
   height: 300px;
-  margin-top: 40px;
-  margin-right: 40px;
-  margin-bottom: 40px;
-  margin-left: 40px;
-  padding-top: 30px;
-  padding-right: 30px;
-  padding-bottom: 30px;
-  padding-left: 30px;
+  margin: 40px 40px 40px 40px;
+  padding: 30px 30px 30px 30px;
 }
 
 .item-1 {
   position: relative;
-  top: 0px;
-  right: 100px;
-  bottom: 50px;
-  left: 0px;
+  top: 50px;
+  bottom: 100px;
 }
 
 .item-2 {
   position: relative;
-  top: 320px;
-  right: 0px;
-  bottom: 0px;
-  left: 150px;
+  right: 150px;
+  bottom: 320px;
 }
 
 .item-3 {
   position: relative;
   top: 240px;
   right: 180px;
-  bottom: 0px;
-  left: 0px;
 }
