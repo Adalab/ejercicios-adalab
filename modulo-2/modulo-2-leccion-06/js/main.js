@@ -13,3 +13,7 @@ adalaber2.profession = "actriz";
 console.log(
   `Mi nombre es ${adalaber1.name}, tengo ${adalaber1.age} años y soy ${adalaber1.profession}.`
 );
+
+console.log(
+  `Mi nombre es ${adalaber2.name}, tengo ${adalaber2.age} años y soy ${adalaber2.profession}.`
+);
